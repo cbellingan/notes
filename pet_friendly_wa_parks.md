@@ -1,6 +1,8 @@
 # Washington State Parks – Pet Policy
-[Go Pets](http://www.gopetfriendlyblog.com/us-state-parks-that-allow-pets-your-guide-to-pet-friendly-cabins-campgrounds-beaches-and-more/)
+[Go Pets](http://www.gopetfriendlyblog.com/us-state-parks-that-allow-pets-your-guide-to-pet-friendly-cabins-campgrounds-beaches-and-more/) 
+
 Pets on leashes up to eight feet long are welcome in Washington state parks and campgrounds, but are not permitted on designated swimming beaches, within a natural area preserve, or on any designated alpine ski site or cross country trail which has been prepared, set, or groomed during ski season.
+
 The following Washington state parks offer pet friendly cabins and yurt rentals for guests traveling with their pets:
 
 * Battle Ground Lake State Park
