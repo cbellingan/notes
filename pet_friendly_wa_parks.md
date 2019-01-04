@@ -22,5 +22,9 @@ The following Washington state parks offer pet friendly cabins and yurt rentals 
 * Twin Harbors State Park
 
 
-# Ref 
+## Ref 
 * [converter](http://pandoc.org)
+
+### USDA links
+* [snow depth maps](https://www.fs.fed.us/r5/webmaps/SierraSnowDepth/)
+* [mountiain loop hw conditions](https://www.fs.usda.gov/detail/mbs/home/?cid=stelprdb5150593)
