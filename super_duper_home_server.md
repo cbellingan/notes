@@ -7,7 +7,7 @@ It looks like Nvidia purposfully block the consumer grade GPU drivers from loadi
 ## sr/iov
 This allows you to create virtul functions (VF) from PCI devices supporting this and pass them through to the guests.
 
-[redhad sriov](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-pci_devices-pci_passthrough]
+[redhad sriov](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-pci_devices-pci_passthrough)
 
 ## ref
 * [RHEL virtualization guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/index)
