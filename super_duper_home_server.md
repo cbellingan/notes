@@ -1,3 +1,10 @@
+# GPU passthrough
+It looks like Nvidia purposfully block the consumer grade GPU drivers from loading if they detect they are running in a virt. This manifests as a general 'code 43' error in windows. There are a ton of random sites dealing with this the ones below are the best and the fix is to force kvm to not report that the guest is a virt by editing the guests XML used by libvert.
+
+* [description](https://passthroughpo.st/apply-error-43-workaround/)
+* [virsh-patcher](https://github.com/PassthroughPOST/virsh-patcher)
+
+
 ## ref
 * [windows 10 VM perf](https://heiko-sieger.info/windows-10-virtual-machine-benchmarks/)
 * [windows 10 as VM](https://heiko-sieger.info/running-windows-10-on-linux-using-kvm-with-vga-passthrough/)
