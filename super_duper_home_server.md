@@ -10,6 +10,7 @@ This allows you to create virtul functions (VF) from PCI devices supporting this
 [redhad sriov](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-pci_devices-pci_passthrough]
 
 ## ref
+* [RHEL virtualization guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/index)
 * [windows 10 VM perf](https://heiko-sieger.info/windows-10-virtual-machine-benchmarks/)
 * [windows 10 as VM](https://heiko-sieger.info/running-windows-10-on-linux-using-kvm-with-vga-passthrough/)
 * [make boot loader](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)
